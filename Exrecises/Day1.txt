@@ -1,0 +1,5 @@
+Day 1:Exercise
+
+Using arrow function, output the fullname of a user with string concat()
+
+Arguments can be firstname and lastName of type string
